@@ -14,3 +14,26 @@ copy ".gitignore" from another project
 ```bash
 npm install tailwindcss@1.4
 ```
+
+create base file:
+
+- public/index.html
+- src/styles.css
+
+```css
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+```
+
+```bash
+npm run build-css
+live-server ./public --watch
+```
+
+use full config & rebuild
+
+```bash
+npx tailwindcss init --full
+npm run build-css
+```
