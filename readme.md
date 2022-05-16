@@ -12,4 +12,5 @@ git init
 copy ".gitignore" from another project
 
 ```bash
+npm install tailwindcss@1.4
 ```
