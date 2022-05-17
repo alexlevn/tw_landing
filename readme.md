@@ -41,3 +41,10 @@ npm run build-css
 ```
 
 <!-- https://alexlevn.github.io/tw_landing/ -->
+
+Step 1: public the repo
+Step 2: Settings -> Pages
+
+- Source: select Branch, folder '/docs' (or public)
+- Save
+- Waiting in 5 minutes: & [test](https://alexlevn.github.io/tw_landing/)
