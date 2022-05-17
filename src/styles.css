@@ -9,3 +9,13 @@
 .menu-item {
   @apply px-3 flex items-center font-light tracking-widest cursor-pointer;
 }
+
+.bg-mua-ngay {
+  background-color: #2f373b;
+}
+.bg-top-menu {
+  background-color: #4c4c4c;
+}
+.bg-btn-mua-ngay {
+  background-color: #2283c1;
+}
