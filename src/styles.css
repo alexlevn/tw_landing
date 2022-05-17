@@ -6,7 +6,7 @@
   outline: 1px solid gold;
 }
 
-.main-block {
+.block-fixed {
   @apply max-w-6xl mx-auto;
   min-width: 1280px;
 }

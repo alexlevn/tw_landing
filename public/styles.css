@@ -17378,7 +17378,7 @@ video {
   outline: 1px solid gold;
 }
 
-.main-block {
+.block-fixed {
   max-width: 72rem;
   margin-left: auto;
   margin-right: auto;
