@@ -17382,6 +17382,12 @@ video {
   max-width: 72rem;
   margin-left: auto;
   margin-right: auto;
+  min-width: 1280px;
+}
+
+// custom same as tailwind v2.0.0 ?
+.min-w-fixed {
+  min-width: 1280px;
 }
 
 .menu-item {
@@ -17394,7 +17400,7 @@ video {
   cursor: pointer;
 }
 
-.w-1280{
+.w-1280 {
   width: 1280px;
 }
 

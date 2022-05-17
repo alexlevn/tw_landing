@@ -7,14 +7,20 @@
 }
 
 .main-block {
-  @apply max-w-6xl mx-auto; 
+  @apply max-w-6xl mx-auto;
+  min-width: 1280px;
+}
+
+// custom same as tailwind v2.0.0 ?
+.min-w-fixed {
+  min-width: 1280px;
 }
 
 .menu-item {
   @apply px-3 flex items-center font-light tracking-widest cursor-pointer;
 }
 
-.w-1280{
+.w-1280 {
   width: 1280px;
 }
 .bg-mua-ngay {
