@@ -6,10 +6,17 @@
   outline: 1px solid gold;
 }
 
+.main-block {
+  @apply max-w-6xl mx-auto; 
+}
+
 .menu-item {
   @apply px-3 flex items-center font-light tracking-widest cursor-pointer;
 }
 
+.w-1280{
+  width: 1280px;
+}
 .bg-mua-ngay {
   background-color: #2f373b;
 }
