@@ -1,6 +1,8 @@
 # README
 
-- Bài thực hành **tailwind**, clone theo 1 mẫu của Haravan [pro landing](https://themes.haravan.com/pages/demo?id=landing-page.myharavan.com&pro=landing)
+Bài tập cho học viên:
+
+- [pro landing](https://themes.haravan.com/pages/demo?id=landing-page.myharavan.com&pro=landing)
 
 1. Init project
 
