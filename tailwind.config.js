@@ -13,6 +13,7 @@ module.exports = {
     },
     colors: {
       primary: 'rgb(235,109,76)',
+      content: '#555555',
       secondary: '#EB6D4C',
       transparent: 'transparent',
       current: 'currentColor',
